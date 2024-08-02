@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingHorizontal="16dp">
+
+    <io.woong.shapedimageview.CircleImageView
+        android:id="@+id/image_user"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        app:border_size="2dp"
+        app:border_color="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/image_user"/>
+
+    <TextView
+        android:id="@+id/text_user_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image_user"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Gustavo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721900211357",
+    "project_id": "banco-digital-46ff2",
+    "storage_bucket": "banco-digital-46ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721900211357:android:38c3084725e37da6241874",
+        "android_client_info": {
+          "package_name": "com.example.bancodigital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzlgd5yuR6ZmlueyuT1pRBw3vd0qoDko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
