@@ -3,8 +3,7 @@
 E aí galera tudo bem? Antes de entrar para área de desenvolvimento, eu já tinha essa meta de criar um projeto de um banco digital,
 e hoje consegui concluir, ele é um projeto longo pelo fato de ter muitas activities e fragments, mais é um projeto muito bom para ganhar habilidades em desenvolvimento de aplicativos.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![2](https://github.com/user-attachments/assets/8a0a33a4-84ac-40a4-98e3-5f09aa809a1b)
-![3](https://github.com/user-attachments/assets/30f9f746-5968-431d-9dc8-f78fdc970f5b)
+![4](https://github.com/user-attachments/assets/afdca2f7-3c3e-425f-9ada-b55b729c2c5d)
 
 
 🔥 Características:
