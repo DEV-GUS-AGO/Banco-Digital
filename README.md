@@ -4,7 +4,7 @@ E aí galera tudo bem? Antes de entrar para área de desenvolvimento, eu já tin
 e hoje consegui concluir, ele é um projeto longo pelo fato de ter muitas activities e fragments, mais é um projeto muito bom para ganhar habilidades em desenvolvimento de aplicativos.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![10](https://github.com/user-attachments/assets/2db64b8b-bc02-4ca3-8446-191469d7a9d4)
-![5](https://github.com/user-attachments/assets/3d47ce27-1f4f-4492-8c6d-7a2047522ed2)
+![1](https://github.com/user-attachments/assets/c0bda7d7-5b55-4b1d-adc2-b6edff66de92)
 ![6](https://github.com/user-attachments/assets/2f3862dd-de05-4916-a4e2-60fab5d07724)
 ![7](https://github.com/user-attachments/assets/54d4c62f-6df9-48da-a31a-7fb7d5c349a9)
 ![8](https://github.com/user-attachments/assets/d7aa5267-b62f-491e-88cb-4f76cebb819d)
