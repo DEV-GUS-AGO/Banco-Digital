@@ -5,6 +5,7 @@ e hoje consegui concluir, ele é um projeto longo pelo fato de ter muitas activi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![4](https://github.com/user-attachments/assets/afdca2f7-3c3e-425f-9ada-b55b729c2c5d)
 ![5](https://github.com/user-attachments/assets/3d47ce27-1f4f-4492-8c6d-7a2047522ed2)
+![6](https://github.com/user-attachments/assets/2f3862dd-de05-4916-a4e2-60fab5d07724)
 
 
 🔥 Características:
