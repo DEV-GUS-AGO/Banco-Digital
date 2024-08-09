@@ -1,7 +1,9 @@
-💲Projeto Banco Digital💲 
+# Projeto Banco Digital💲 
 
 E aí galera tudo bem? Antes de entrar para área de desenvolvimento, eu já tinha essa meta de criar um projeto de um banco digital,
 e hoje consegui concluir, ele é um projeto longo pelo fato de ter muitas activities e fragments, mais é um projeto muito bom para ganhar habilidades em desenvolvimento de aplicativos.
+
+📸 Capturas de tela
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![2](https://github.com/user-attachments/assets/b748c3b5-05de-4261-a297-08f6fd8e0174)
 ![3](https://github.com/user-attachments/assets/27bfb777-cd35-41e7-a7fd-037f8b6d7eaf)
@@ -11,13 +13,21 @@ e hoje consegui concluir, ele é um projeto longo pelo fato de ter muitas activi
 ![5](https://github.com/user-attachments/assets/974b1fad-2870-4472-a1a3-6c36f731328d)
 
 
-🔥 Características:
-
+🛠️ Tecnologias utilizadas
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - API Firebase
 - Padrão MVVM
 - XML
 - Injeção de dependência Hilt
 - Navigation
+- Clean Architecture
+- Kotlin
+- Retrofit
+- Coroutines
+- Glide
+- Flow
+- State Flow
+- Jetpack Components(ViewBinding, Navigation Components)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MIT License
 
