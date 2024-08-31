@@ -4,7 +4,7 @@ E aí galera tudo bem? Antes de entrar para área de desenvolvimento, eu já tin
 e hoje consegui concluir, ele é um projeto longo pelo fato de ter muitas activities e fragments, mais é um projeto muito bom para ganhar habilidades em desenvolvimento de aplicativos.
 
 📸 Capturas de tela
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![2](https://github.com/user-attachments/assets/b748c3b5-05de-4261-a297-08f6fd8e0174)
 ![3](https://github.com/user-attachments/assets/27bfb777-cd35-41e7-a7fd-037f8b6d7eaf)
 ![4](https://github.com/user-attachments/assets/38c430e7-3586-4c60-ba54-cfd07a393421)
@@ -14,7 +14,7 @@ e hoje consegui concluir, ele é um projeto longo pelo fato de ter muitas activi
 
 
 🛠️ Tecnologias utilizadas
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - API Firebase
 - Padrão MVVM
 - XML
